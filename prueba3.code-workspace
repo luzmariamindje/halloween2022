@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "../../DESARROLLO CLIENTE/prueba"
+		},
+		{
+			"path": "../../DESARROLLO CLIENTE/Calculadora"
+		},
+		{
+			"path": "../pruebajueves"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../pruebaGIT"
+		},
+		{
+			"path": "../Practica2"
+		},
+		{
+			"path": "../practica1"
+		},
+		{
+			"path": "../../../../../../Escritorio/htdocs/POO"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"liveServer.settings.multiRootWorkspaceName": "HALLOWEEN"
+	}
+}
