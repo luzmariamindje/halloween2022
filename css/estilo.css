@@ -29,7 +29,7 @@ height: 172px;
 background-size:cover;
 background-position: center;
 background-repeat: no-repeat;
-background-image:url(/img/smartphone/principal@2x.webp);
+background-image:url(../img/smartphone/principal@2x.webp);
 }
 /* subtitulo */
 h2{
@@ -75,21 +75,21 @@ figcaption{
 
 .primera{
     
-background-image:url(/img/smartphone/cruz@2x.webp);
+background-image:url(../img/smartphone/cruz@2x.webp);
 width: 322px;
 height: 130px;
 background-size:cover;
 margin-top: 30px;
 }
 .segunda{
-    background-image:url(/img/smartphone/calabazas@2x.webp);
+    background-image:url(../img/smartphone/calabazas@2x.webp);
     width: 322px;
     height: 130px;
     background-size:cover;
     margin-top: 50px;
 }
 .tercera{
-    background-image:url(/img/smartphone/cabeza@2x.webp);
+    background-image:url(../img/smartphone/cabeza@2x.webp);
     width: 322px;
     height: 130px;
     background-size:cover;
@@ -97,7 +97,7 @@ margin-top: 30px;
 }
 
 .chica{
-    background-image:url(/img/smartphone/chica@2x\ \(1\).webp);
+    background-image:url(../img/smartphone/chica@2x\ \(1\).webp);
     margin: 50px;
     margin-top: 60px;
     width: 200px;
@@ -107,7 +107,7 @@ margin-top: 30px;
 }
 .chico{
 
-    background-image:url(/img/smartphone/chico@2x\ \(1\).webp);
+    background-image:url(../img/smartphone/chico@2x\ \(1\).webp);
     display: block;
     margin-top: 60px;
     margin: 50px;
